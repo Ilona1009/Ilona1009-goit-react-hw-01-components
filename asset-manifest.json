@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ilona1009-goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Ilona1009-goit-react-hw-01-components/static/js/main.fa1b6b69.js",
+    "main.css": "/Ilona1009-goit-react-hw-01-components/static/css/main.d0103c15.css",
+    "main.js": "/Ilona1009-goit-react-hw-01-components/static/js/main.e351bd85.js",
     "index.html": "/Ilona1009-goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Ilona1009-goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.fa1b6b69.js.map": "/Ilona1009-goit-react-hw-01-components/static/js/main.fa1b6b69.js.map"
+    "main.d0103c15.css.map": "/Ilona1009-goit-react-hw-01-components/static/css/main.d0103c15.css.map",
+    "main.e351bd85.js.map": "/Ilona1009-goit-react-hw-01-components/static/js/main.e351bd85.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.fa1b6b69.js"
+    "static/css/main.d0103c15.css",
+    "static/js/main.e351bd85.js"
   ]
 }
