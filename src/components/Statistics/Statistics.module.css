@@ -1,0 +1,23 @@
+.statistics {
+  width: 300px;
+  display: flex;
+  margin: 40px auto 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 20%), 0 1px 1px rgb(0 0 0 / 14%),
+    0 2px 1px -1px rgb(0 0 0 / 12%);
+}
+
+.statlist {
+  display: flex;
+  margin-top: 10px;
+}
+.item {
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  padding: 14px;
+  width: 100%;
+}
